@@ -13,7 +13,7 @@ fn main() {
 
 fn calculer_taille(s: String) -> (String, usize) {
     let taille = s.len();
-
+    
     (s, taille)
 }
 
